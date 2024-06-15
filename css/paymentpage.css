@@ -1,0 +1,87 @@
+body {
+    background-color: #000;
+    background-image: url("../image/payment-bg-img.jpg");
+    background-size: cover;
+
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline overline rgba(206, 31, 212, 0.5);
+}
+
+form {
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 15px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    border: 20px;
+    color: rgb(8, 20, 129);
+    text-align: center;
+    font-size: 16px;
+    box-shadow: 15px 15px 15px 10px #070708;
+}
+
+form label {
+    font-size: xx-large;
+}
+
+form span {
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+form .submit-btn {
+    color: #000;
+    background-color: rgba(118, 46, 160, 0.5);
+    padding: 8px;
+    font-size: 15px;
+}
+
+#backtocart {
+    color: red;
+    font-size: 20px;
+}
+
+#cod form {
+    margin: 20px;
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 10px;
+    border-radius: 15px;
+    color: rgb(4, 7, 37);
+    text-align: center;
+    font-size: 16px;
+    box-shadow: none;
+}
+
+#cod input {
+    height: 40px
+}
+
+#cod h3 {
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+#online form {
+    margin: 20px;
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 10px;
+    border-radius: 15px;
+    color: rgb(4, 7, 37);
+    text-align: center;
+    font-size: 16px;
+    box-shadow: none;
+}
+
+#online input {
+    height: 40px
+}
+
+#online h3 {
+    font-size: 40px;
+    text-decoration: underline;
+}
